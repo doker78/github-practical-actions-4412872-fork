@@ -9,3 +9,4 @@ This is the repository for the LinkedIn Learning course Practical GitHub Actions
 
 ### About
 
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHTXEX1TA50Kw/learning-public-crop_675_1200/0/1685056279542?e=2147483647&v=beta&t=jzWirzknPA523bfHaOrsJsZ0V5GAVPej6kJ06BeMM5c
