@@ -1,6 +1,6 @@
 # The Future in Tech
 
-<img src="images/artwork.jpg" width="250">
+![Jankins on Mars](images/artwork.jpg)
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 
